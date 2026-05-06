@@ -1,4 +1,4 @@
-# WordForge
+# CredCraft
 
 Intelligent credential wordlist generator for authorized penetration testing and OSINT-driven security assessments.
 Craft smarter credentials. Test stronger defenses.
@@ -14,4 +14,4 @@ Craft smarter credentials. Test stronger defenses.
 ## Usage
 
 ```bash
-python3 wordforge.py
+python3 credcraft.py
